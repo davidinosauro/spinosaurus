@@ -1,0 +1,43 @@
+body {
+    background-color: #edecee;
+    text-align: center;
+    }
+    
+    #titulo {
+     color:#d2c615;
+     font-size: 50px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+    }
+    
+    #titulo2 {
+        color:black;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+       }
+    
+    #imagem {
+        width:450px;
+        height:300px;
+    }
+    
+    #botao2 {
+        margin-top: 1px;
+    }
+    
+    #texto{
+        background-color: white;
+        color:#d6b832;
+        border-color:lightgray;
+        width:300px
+    }
+    
+    input {
+        background-color: #c4b000;
+        color: white;
+        padding: 12px;
+        border-radius:9px;
+        border-color:#c4b000;
+       font-size:20px;
+    }
